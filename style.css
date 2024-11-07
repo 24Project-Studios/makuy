@@ -1,0 +1,71 @@
+@font-face {
+    font-family:amperzand;
+    src: url(Amperzand.ttf);
+}
+
+ 
+@font-face {
+    font-family:kin ;
+    src: url(KIN668.TTF);
+}
+
+@font-face {
+    font-family:regular ;
+    src: url(EditorialToday-Regular.ttf);
+}
+
+@font-face {
+    font-family:butler ;
+    src: url(Butler_Black.otf);
+}
+
+@font-face {
+    font-family:mediative ;
+    src: url(Meditative.ttf);
+}
+
+
+
+body{
+    background-image:url(img/fondo10.png) ;
+    background-position: center;
+background-size: cover;
+
+}
+.container-fluid{  background-image:url(img/fondo5.png);
+    background-position: center;
+    background-size: cover;
+    }
+    
+    
+    .container h3{  background-image:url(img/fondo5.png);
+        background-position: center;
+        background-size: cover;
+        
+        }
+        
+    
+    
+    .container-sm{ background-image: url(img/fondo5.png);
+        background-position: center;
+    background-size: cover;
+    
+    
+     }
+    .card{
+        background-position: center;
+        background-size: cover;
+    
+        background-image: url(img/fondo5.png);
+    }
+
+.content{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+.content a{font-size: 50px;
+    color: #032006;
+
+}
+    

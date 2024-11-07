@@ -1,0 +1,48 @@
+@font-face {
+    font-family:reboto c;
+    src: url(RobotoCondensed-VariableFont_wght.ttf);
+}
+
+ 
+@font-face {
+    font-family:Tavirajs ;
+    src: url(Taviraj-SemiBoldItalic.ttf);
+}
+
+@font-face {
+    font-family:Taviraje ;
+    src: url(Taviraj-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family:Nobile ;
+    src: url(Nobile-MediumItalic.ttf);
+}
+
+@font-face {
+    font-family:kin ;
+    src: url(KIN668.TTF);
+}
+@font-face {
+    font-family:tavi ;
+    src: url(Taviraj-ExtraBold.ttf);
+}
+
+
+body{
+    background-image:url(img/fondo1.png) ;
+    background-position: center;
+background-size: cover;
+
+}
+.container-fluid{  background-image:url(img/ima1.jpg);
+    background-position: center;
+    background-size: cover;
+    }
+    .container-fluid p {  background-image:url(img/ima2.jpg);
+    background-position: center;
+    background-size: cover;
+    }
+    
+    
+    
